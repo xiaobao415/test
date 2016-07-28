@@ -1,4 +1,4 @@
 12345
 456
  readme.edit
- /usr/bin/env2
+ /usr/bin/env
